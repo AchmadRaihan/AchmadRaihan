@@ -5,6 +5,7 @@ Achmad Raihan is a fresh graduate of Physics Engineering at Telkom University. H
 ## About Me
 
 🌱 I’m currently learningAdvanced SQL techniques, machine learning pipelines  
+
 💞 Looking to Collaborate On: Data analysis, dashboard visualizations, and projects integrating data insights into strategic business decisions.
 
 ## 📫 How to reach me
