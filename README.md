@@ -10,7 +10,8 @@ Achmad Raihan is a fresh graduate of Physics Engineering at Telkom University. H
 
 ## 📫 How to reach me
 
-LinkedIn : [Achmad Raihan](https://www.linkedin.com/in/achmad-raihan/)
+LinkedIn : [Achmad Raihan](https://www.linkedin.com/in/achmad-raihan/)  
+
 Email : achmadraihan999@gmail.com
 
 ## 🧰 Skills
