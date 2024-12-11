@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Achmad Raihan is a fresh graduate of Physics Engineering at Telkom University. He likes job that can learning while working in a lean and agile squad model organization. He can work with an incredibly diverse and distributed team of experienced engineers with a global perspective. He has high curiosity and dare to explore new things. He also has internships, organizations, and project experiences that help develop self-potential to be able the company achieve it goals.
+I am a data enthusiasts that likes job that can learning while working in a lean and agile squad model organization. I can work with an incredibly diverse and distributed team of experienced engineers with a global perspective. He has high curiosity and dare to explore new things. I am also has internships, organizations, and project experiences that help develop self-potential to be able the company achieve it goals.
 
 ## About Me
 
