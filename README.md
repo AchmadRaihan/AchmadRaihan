@@ -6,7 +6,7 @@ I am a data enthusiast that likes job which can learning while working in a lean
 
 🌱 I’m currently learningAdvanced SQL techniques, machine learning pipelines  
 
-💞 Looking to Collaborate On: Data analysis, dashboard visualizations, and projects integrating data insights into strategic business decisions.
+💞 Looking to Collaborate On: Artificial Intellegent, data analysis, dashboard visualizations, and projects integrating data insights into strategic business decisions.
 
 ## 📫 How to reach me
 
